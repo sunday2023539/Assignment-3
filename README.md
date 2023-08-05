@@ -20,7 +20,7 @@ DATA
 TASK
  How to get bike rental location data, create a simple map, and add points to it for each location using Folium in Python.
 
-CHALLENGE ENCOUNTER
- Unable to get the right folium marker funtion to mark multiple location.
+CONCLUSION
+Few lines of codes makes it possible to put together basic maps. Using folium with python is a great way to get started with mapping geospatial data.
  
  
